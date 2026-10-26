@@ -1,0 +1,5 @@
+.DS_Store
+.audit-preview/
+.preview-check.html
+.env
+.env.*
